@@ -1,9 +1,0 @@
-{
-	"name": "daademoadfpipeline1",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "b47f8112-12fb-4abe-847c-ee81d1b9e48d",
-		"tenantId": "a45fe71a-f480-4e42-ad5e-aff33165aa35"
-	}
-}
