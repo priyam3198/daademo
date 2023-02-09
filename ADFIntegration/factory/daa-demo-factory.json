@@ -1,0 +1,9 @@
+{
+	"name": "daa-demo-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c1303f3-4fd1-437c-a1c3-2cd20e91de02",
+		"tenantId": "a45fe71a-f480-4e42-ad5e-aff33165aa35"
+	}
+}
